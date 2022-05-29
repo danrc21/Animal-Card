@@ -1,2 +1,2 @@
 # Animal-Card
-Udacity Project
+Udacity Project. Create a single page displaying a trading card of your favorite animal.
